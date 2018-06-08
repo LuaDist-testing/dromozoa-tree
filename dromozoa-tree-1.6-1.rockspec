@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dromozoa-tree"
-version = "1.5-1"
+version = "1.6-1"
 -- LuaDist source
 source = {
-  tag = "1.5-1",
+  tag = "1.6-1",
   url = "git://github.com/LuaDist-testing/dromozoa-tree.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/dromozoa/dromozoa-tree/archive/v1.5.tar.gz";
---   file = "dromozoa-tree-1.5.tar.gz";
+--   url = "https://github.com/dromozoa/dromozoa-tree/archive/v1.6.tar.gz";
+--   file = "dromozoa-tree-1.6.tar.gz";
 -- }
 description = {
   summary = "Tree data structures and algorithms";
